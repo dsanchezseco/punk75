@@ -175,10 +175,6 @@ F 3 "" H 5350 5200 50  0001 C CNN
 	1    5350 5200
 	-1   0    0    -1  
 $EndComp
-Text GLabel 2800 4250 2    50   Input ~ 0
-D+
-Text GLabel 2800 4350 2    50   Input ~ 0
-D-
 $Comp
 L Device:Crystal_Small Y1
 U 1 1 5E9D68B8
@@ -223,28 +219,6 @@ Wire Wire Line
 Wire Wire Line
 	5100 6500 4700 6500
 $Comp
-L Device:R_Small R1
-U 1 1 5E9F29F7
-P 3900 6250
-F 0 "R1" V 3650 6250 50  0000 C CNN
-F 1 "75" V 3750 6250 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" H 3900 6250 50  0001 C CNN
-F 3 "~" H 3900 6250 50  0001 C CNN
-	1    3900 6250
-	0    1    1    0   
-$EndComp
-$Comp
-L Device:R_Small R3
-U 1 1 5E9F320F
-P 3900 6450
-F 0 "R3" V 3704 6450 50  0000 C CNN
-F 1 "75" V 3795 6450 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" H 3900 6450 50  0001 C CNN
-F 3 "~" H 3900 6450 50  0001 C CNN
-	1    3900 6450
-	0    1    1    0   
-$EndComp
-$Comp
 L Connector:USB_C_Receptacle_USB2.0 USB1
 U 1 1 5EA0F43C
 P 2100 6300
@@ -275,10 +249,6 @@ Wire Wire Line
 Connection ~ 2850 6250
 Wire Wire Line
 	2850 6250 2850 6300
-Text GLabel 4000 6250 2    50   Input ~ 0
-D-
-Text GLabel 4000 6450 2    50   Input ~ 0
-D+
 $Comp
 L power:GND #PWR0108
 U 1 1 5EA1A3CB
@@ -3141,4 +3111,34 @@ Wire Wire Line
 Wire Wire Line
 	7950 4400 7950 4750
 Connection ~ 7950 4750
+Text GLabel 2800 4250 2    50   Input ~ 0
+D+
+Text GLabel 2800 4350 2    50   Input ~ 0
+D-
+Text GLabel 4000 6450 2    50   Input ~ 0
+D+
+Text GLabel 4000 6250 2    50   Input ~ 0
+D-
+$Comp
+L Device:R_Small R3
+U 1 1 5E9F320F
+P 3900 6450
+F 0 "R3" V 3704 6450 50  0000 C CNN
+F 1 "75" V 3795 6450 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" H 3900 6450 50  0001 C CNN
+F 3 "~" H 3900 6450 50  0001 C CNN
+	1    3900 6450
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R_Small R1
+U 1 1 5E9F29F7
+P 3900 6250
+F 0 "R1" V 3650 6250 50  0000 C CNN
+F 1 "75" V 3750 6250 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" H 3900 6250 50  0001 C CNN
+F 3 "~" H 3900 6250 50  0001 C CNN
+	1    3900 6250
+	0    1    1    0   
+$EndComp
 $EndSCHEMATC
