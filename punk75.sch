@@ -2742,45 +2742,45 @@ MISO
 $Comp
 L Device:LED LED1
 U 1 1 5F13B82B
-P 8550 5800
-F 0 "LED1" H 8543 5638 50  0000 C CNN
-F 1 "POWER" H 8543 5547 50  0000 C CNN
-F 2 "LED_THT:LED_D3.0mm" H 8550 5800 50  0001 C CNN
-F 3 "~" H 8550 5800 50  0001 C CNN
-	1    8550 5800
+P 8500 5400
+F 0 "LED1" H 8493 5238 50  0000 C CNN
+F 1 "POWER" H 8493 5147 50  0000 C CNN
+F 2 "LED_THT:LED_D3.0mm" H 8500 5400 50  0001 C CNN
+F 3 "~" H 8500 5400 50  0001 C CNN
+	1    8500 5400
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:R_Small R7
 U 1 1 5F13CDFC
-P 8300 5800
-F 0 "R7" V 8104 5800 50  0000 C CNN
-F 1 "1k5" V 8195 5800 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" H 8300 5800 50  0001 C CNN
-F 3 "~" H 8300 5800 50  0001 C CNN
-	1    8300 5800
+P 8250 5400
+F 0 "R7" V 8054 5400 50  0000 C CNN
+F 1 "1k5" V 8145 5400 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" H 8250 5400 50  0001 C CNN
+F 3 "~" H 8250 5400 50  0001 C CNN
+	1    8250 5400
 	0    1    1    0   
 $EndComp
 $Comp
 L power:+5V #PWR0117
 U 1 1 5F13EA77
-P 8700 5800
-F 0 "#PWR0117" H 8700 5650 50  0001 C CNN
-F 1 "+5V" H 8715 5973 50  0000 C CNN
-F 2 "" H 8700 5800 50  0001 C CNN
-F 3 "" H 8700 5800 50  0001 C CNN
-	1    8700 5800
+P 8650 5400
+F 0 "#PWR0117" H 8650 5250 50  0001 C CNN
+F 1 "+5V" H 8665 5573 50  0000 C CNN
+F 2 "" H 8650 5400 50  0001 C CNN
+F 3 "" H 8650 5400 50  0001 C CNN
+	1    8650 5400
 	1    0    0    -1  
 $EndComp
 $Comp
 L power:GND #PWR0118
 U 1 1 5F13FCEC
-P 8200 5800
-F 0 "#PWR0118" H 8200 5550 50  0001 C CNN
-F 1 "GND" H 8205 5627 50  0000 C CNN
-F 2 "" H 8200 5800 50  0001 C CNN
-F 3 "" H 8200 5800 50  0001 C CNN
-	1    8200 5800
+P 8150 5400
+F 0 "#PWR0118" H 8150 5150 50  0001 C CNN
+F 1 "GND" H 8155 5227 50  0000 C CNN
+F 2 "" H 8150 5400 50  0001 C CNN
+F 3 "" H 8150 5400 50  0001 C CNN
+	1    8150 5400
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -2837,35 +2837,35 @@ Text GLabel 2800 3250 2    50   Input ~ 0
 ROW2
 Text GLabel 2800 4650 2    50   Input ~ 0
 ROW0
-Text GLabel 2800 3650 2    50   Input ~ 0
+Text GLabel 2800 3350 2    50   Input ~ 0
 COL0
-Text GLabel 2800 3750 2    50   Input ~ 0
+Text GLabel 2800 3450 2    50   Input ~ 0
 COL1
-Text GLabel 2800 2050 2    50   Input ~ 0
+Text GLabel 2800 3750 2    50   Input ~ 0
 COL2
-Text GLabel 2800 1950 2    50   Input ~ 0
+Text GLabel 2800 3650 2    50   Input ~ 0
 COL3
-Text GLabel 2800 1850 2    50   Input ~ 0
+Text GLabel 2800 3550 2    50   Input ~ 0
 COL4
-Text GLabel 2800 1350 2    50   Input ~ 0
-COL13
-Text GLabel 2800 1450 2    50   Input ~ 0
-COL11
-Text GLabel 2800 1550 2    50   Input ~ 0
-COL9
-Text GLabel 2800 1650 2    50   Input ~ 0
-COL7
-Text GLabel 2800 1750 2    50   Input ~ 0
-COL5
-Text GLabel 2800 2250 2    50   Input ~ 0
-COL14
-Text GLabel 2800 2350 2    50   Input ~ 0
-COL12
 Text GLabel 2800 2450 2    50   Input ~ 0
-COL10
+COL13
 Text GLabel 2800 2550 2    50   Input ~ 0
-COL8
+COL11
 Text GLabel 2800 2650 2    50   Input ~ 0
+COL9
+Text GLabel 2800 1850 2    50   Input ~ 0
+COL7
+Text GLabel 2800 2050 2    50   Input ~ 0
+COL5
+Text GLabel 2800 1450 2    50   Input ~ 0
+COL14
+Text GLabel 2800 1550 2    50   Input ~ 0
+COL12
+Text GLabel 2800 1650 2    50   Input ~ 0
+COL10
+Text GLabel 2800 1750 2    50   Input ~ 0
+COL8
+Text GLabel 2800 1950 2    50   Input ~ 0
 COL6
 $Comp
 L MX_Alps_Hybrid:MX-NoLED MX6
@@ -3141,4 +3141,41 @@ F 3 "" H 6125 4225 60  0001 C CNN
 	1    6750 4250
 	1    0    0    -1  
 $EndComp
+$Comp
+L Device:LED LED2
+U 1 1 5ED11032
+P 8500 5900
+F 0 "LED2" H 8493 5738 50  0000 C CNN
+F 1 "LED2" H 8493 5647 50  0000 C CNN
+F 2 "LED_THT:LED_D3.0mm" H 8500 5900 50  0001 C CNN
+F 3 "~" H 8500 5900 50  0001 C CNN
+	1    8500 5900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R8
+U 1 1 5ED1103C
+P 8250 5900
+F 0 "R8" V 8054 5900 50  0000 C CNN
+F 1 "1k5" V 8145 5900 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" H 8250 5900 50  0001 C CNN
+F 3 "~" H 8250 5900 50  0001 C CNN
+	1    8250 5900
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0119
+U 1 1 5ED11046
+P 8150 5900
+F 0 "#PWR0119" H 8150 5650 50  0001 C CNN
+F 1 "GND" H 8155 5727 50  0000 C CNN
+F 2 "" H 8150 5900 50  0001 C CNN
+F 3 "" H 8150 5900 50  0001 C CNN
+	1    8150 5900
+	1    0    0    -1  
+$EndComp
+Text GLabel 8650 5900 2    50   Input ~ 0
+LED2
+Text GLabel 2800 4150 2    50   Input ~ 0
+LED2
 $EndSCHEMATC
