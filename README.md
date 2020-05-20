@@ -5,7 +5,7 @@ Uses an ATmega32A-PU and USB-C.
 
 ![front of pcb](https://github.com/dsanchezseco/punk75/raw/master/generated/images/punk75_front.jpg)
 ![back of pcb](https://github.com/dsanchezseco/punk75/raw/master/generated/images/punk75_back.jpg)
-[with switches](https://github.com/dsanchezseco/punk75/raw/master/generated/images/punk75_front_switches.jpg)
+![with switches](https://github.com/dsanchezseco/punk75/raw/master/generated/images/punk75_front_switches.jpg)
 
 # BOM list
 [BOM list](https://octopart.com/bom-tool/D58T7Rv1)
