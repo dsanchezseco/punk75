@@ -3254,4 +3254,26 @@ Text GLabel 2800 2350 2    50   Input ~ 0
 R2A
 Text GLabel 2800 2250 2    50   Input ~ 0
 R2B
+$Comp
+L Mechanical:MountingHole H13
+U 1 1 5EC747DD
+P 9700 6100
+F 0 "H13" H 9800 6146 50  0000 L CNN
+F 1 "M2.5" H 9800 6055 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.7mm_M2.5_ISO7380_Pad" H 9700 6100 50  0001 C CNN
+F 3 "~" H 9700 6100 50  0001 C CNN
+	1    9700 6100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H14
+U 1 1 5EC747E7
+P 10250 6100
+F 0 "H14" H 10350 6146 50  0000 L CNN
+F 1 "M2.5" H 10350 6055 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.7mm_M2.5_ISO7380_Pad" H 10250 6100 50  0001 C CNN
+F 3 "~" H 10250 6100 50  0001 C CNN
+	1    10250 6100
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
