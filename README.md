@@ -42,6 +42,6 @@ TODO
 TODO
 
 ## HI-PRO
-[Optional high profile case](https://github.com/dsanchezseco/punk75/raw/master/case/sandwich/README.md)
+[Optional high profile case](https://github.com/dsanchezseco/punk75/blob/master/case/sandwich/README.md)
 
 
