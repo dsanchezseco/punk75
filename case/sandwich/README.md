@@ -4,9 +4,9 @@
 
 Alternative case of sandwich style made out of acrylic(plate made out of Delrin for extra rigidity).
 
-__I recommend using [Ponoko](https://www.ponoko.com/) to cut the pieces. They have all of the correct/required thicknesses and materials in stock and have the best pricing that I have found for multiple one-off parts. Use clear acrylic for the full range of thickness options and Delrin (POM) for the plate. For proper fit please ensure you use the correct dimensions and material thicknesses noted below. Other colors may be used, but of the colors may have limited thickness options, so you may have to narrow material results by thickness to see which colors are available for that size.
+__I recommend using [Ponoko](https://www.ponoko.com/) to cut the pieces. They have all of the correct/required thicknesses and materials in stock and have the best pricing that I have found for multiple one-off parts. Use clear acrylic for the full range of thickness options and Delrin (POM) for the plate. For proper fit please ensure you use the correct dimensions and material thicknesses noted below. Other colors may be used, but of the colors may have limited thickness options, so you may have to narrow material results by thickness to see which colors are available for that size.__
 
-Ponoko's automatic size detection when uploading is not flawless, so be sure to manually enter the dimensions below.__
+__Ponoko's automatic size detection when uploading is not flawless, so be sure to manually enter the dimensions below.__
 
 ## Parts (top to bottom)
 
@@ -32,4 +32,4 @@ If using conic screws as in the renders M3 conic washers (8mm) are also required
 
 ### Credits
 
-Dimensions, intro and general form taken from [coseyfannitutti](https://github.com/coseyfannitutti/discipline/blob/master/case/README.md)
+Dimensions, intro and general form of the case taken from [coseyfannitutti](https://github.com/coseyfannitutti/discipline/blob/master/case/README.md)
