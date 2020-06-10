@@ -10,6 +10,9 @@ Uses an ATmega32A-PU and USB-C.
 # BOM list
 [BOM list](https://octopart.com/bom-tool/D58T7Rv1)
 
+# Building
+TODO
+
 # Bootloader flashing
 
 Before being able to flash the keymap as regular in QMK using a USB we need to
@@ -32,3 +35,13 @@ TODO
 
 ## CLI
 TODO
+
+# Cases
+
+## Cheapo
+TODO
+
+## HI-PRO
+[Optional high profile case](https://github.com/dsanchezseco/punk75/raw/master/case/sandwich/README.md)
+
+
