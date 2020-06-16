@@ -1,0 +1,27 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.1.6)-1*
+G04 #@! TF.CreationDate,2020-06-16T10:30:54+02:00*
+G04 #@! TF.ProjectId,punk75_plate,70756e6b-3735-45f7-906c-6174652e6b69,rev?*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Copper,L1,Top*
+G04 #@! TF.FilePolarity,Positive*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (5.1.6)-1) date 2020-06-16 10:30:54*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD10C,6.400000*%
+G04 #@! TD*
+G04 APERTURE END LIST*
+D10*
+X352750000Y-99500000D03*
+X272750000Y-99500000D03*
+X171760000Y-99480000D03*
+X91750000Y-99480000D03*
+X272750000Y-236130000D03*
+X171770000Y-236120000D03*
+X91760000Y-236110000D03*
+X352740000Y-236110000D03*
+M02*
