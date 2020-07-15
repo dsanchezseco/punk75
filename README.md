@@ -11,7 +11,7 @@ Uses an ATmega32A-PU and USB-C.
 [BOM list](https://octopart.com/bom-tool/D58T7Rv1)
 
 # Building
-TODO
+[Building guide](https://github.com/dsanchezseco/punk75/blob/master/BUILDING.md)
 
 # Bootloader flashing
 

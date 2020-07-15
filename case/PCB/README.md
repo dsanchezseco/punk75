@@ -46,6 +46,6 @@ The other option is to use a half shield (half-shield.dxf) that instead of using
 the rest of the case as support uses its own standoffs to held it down to the PCB.
 
 This standoffs and screws for the half-shield are M2.5 size, use the lenght you
-feel appropiate.
+feel appropiate. You'll need 4 standoffs and 8 screws.
 
 To know how to source this acrylic pieces refeer to the sandwich case README.md
