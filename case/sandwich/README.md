@@ -2,7 +2,7 @@
 
 ![sandwich case render](https://github.com/dsanchezseco/punk75/raw/master/generated/render/sandwich_case_2020-Jun-10_11-45-44AM-000_CustomizedView68900892458.png)
 
-Alternative case of sandwich style made out of acrylic(plate made out of Delrin for extra rigidity).
+Case of sandwich style made out of acrylic(plate made out of Delrin for extra rigidity).
 
 __I recommend using [Ponoko](https://www.ponoko.com/) to cut the pieces. They have all of the correct/required thicknesses and materials in stock and have the best pricing that I have found for multiple one-off parts. Use clear acrylic for the full range of thickness options and Delrin (POM) for the plate. For proper fit please ensure you use the correct dimensions and material thicknesses noted below. Other colors may be used, but of the colors may have limited thickness options, so you may have to narrow material results by thickness to see which colors are available for that size.__
 
