@@ -10,6 +10,9 @@ but it is made out of (more) layers of PCBs instead of acrylic.
 3. punk75_inner.zip - PCB - 5 needed
 4. punk75_bottom.zip- PCB
 
+This parts can be sourced from a PCB manufacturer with the .zip files of this
+folder.
+
 ## Screws and Standoffs
 
 1. x16 M3x6mm screws

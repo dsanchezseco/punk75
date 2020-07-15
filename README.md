@@ -38,10 +38,10 @@ TODO
 
 # Cases
 
-## Cheapo
-TODO
+## PCB
+[PCB case](https://github.com/dsanchezseco/punk75/blob/master/case/PCB/README.md)
 
-## HI-PRO
-[Optional high profile case](https://github.com/dsanchezseco/punk75/blob/master/case/sandwich/README.md)
+## Acrylic
+[Acrylic case](https://github.com/dsanchezseco/punk75/blob/master/case/sandwich/README.md)
 
 
