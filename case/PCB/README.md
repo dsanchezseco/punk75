@@ -22,7 +22,8 @@ folder.
 ## Assembly
 
 For the assembly of all the parts we need to first place the switches on the
-plate and then proceed to solder them to the keyboard PCB.
+plate and then proceed to solder them to the keyboard PCB (solder first the
+rotary encoders to the pcb if any).
 
 Then we can proceed form bottom to top by screwing the spacers to the bottom and
 inserting the inners in the standoffs. Notice the inners have breakable zone
