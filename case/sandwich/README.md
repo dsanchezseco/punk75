@@ -28,7 +28,7 @@ You can choose any type of material/finish for the layers, but notice the requir
 2. x8  M3x15 round standoffs of 5mm outside diameter
 
 #### Optional
-If using conic screws as in the renders M3 conic washers (8mm) are also required.q
+If using conic screws as in the renders M3 conic washers (8mm) are also required
 
 ### Credits
 
