@@ -3,6 +3,7 @@ Ortholinear keyboard with 75 keys and all components through hole
 
 Uses an ATmega32A-PU and USB-C.
 
+![full keyboard](https://github.com/dsanchezseco/punk75/raw/master/generated/images/punk75_complete.jpg)
 ![front of pcb](https://github.com/dsanchezseco/punk75/raw/master/generated/images/punk75_front.jpg)
 ![back of pcb](https://github.com/dsanchezseco/punk75/raw/master/generated/images/punk75_back.jpg)
 ![with switches](https://github.com/dsanchezseco/punk75/raw/master/generated/images/punk75_front_switches.jpg)
