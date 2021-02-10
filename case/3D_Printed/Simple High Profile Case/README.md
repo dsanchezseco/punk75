@@ -17,9 +17,9 @@ The 3d printed cases in this directory should all follow these assembly instruct
 
 ## Required Parts
 
-(12) M2.5 5mm Standoffs
-(12) M2.5 6mm Pan/Button Head machine screws (for bottom of case to standoffs)
-(12) M2.5 3mm Pan/Button Head machine screws (for PCB to standoffs)
+* (12) M2.5 5mm Standoffs
+* (12) M2.5 6mm Pan/Button Head machine screws (for bottom of case to standoffs)
+* (12) M2.5 3mm Pan/Button Head machine screws (for PCB to standoffs)
 
 ## Printing Settings
 
