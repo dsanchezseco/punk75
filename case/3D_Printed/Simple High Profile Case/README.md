@@ -2,7 +2,7 @@
 
 ## Overview
 
-The 3d printed cases in this directory should all follow these assembly instructions.
+The 3d printed cases in this directory should all follow these assembly instructions. They have also been designed to use the half shield .dxf here: https://github.com/dsanchezseco/punk75/blob/master/case/sandwich/half-shield.dxf
 
 ## Case Designer Index
 
